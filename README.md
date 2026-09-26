@@ -60,7 +60,7 @@ Homestay website demo.
 
 📧 Email: mswebdeveloper1@gmail.com
 
-📱 WhatsApp: 014-7228045
+📱 WhatsApp: 014-7228054
 
 🌐 Portfolio: https://muswebdev.github.io/portfolio/
 
